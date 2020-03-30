@@ -1,0 +1,7 @@
+C:\Users\rosmo\source\repos\SDiZO\SDiZO\bin\Debug\SDiZO.exe.config
+C:\Users\rosmo\source\repos\SDiZO\SDiZO\bin\Debug\SDiZO.exe
+C:\Users\rosmo\source\repos\SDiZO\SDiZO\bin\Debug\SDiZO.pdb
+C:\Users\rosmo\source\repos\SDiZO\SDiZO\obj\Debug\SDiZO.csproj.CoreCompileInputs.cache
+C:\Users\rosmo\source\repos\SDiZO\SDiZO\obj\Debug\SDiZO.exe
+C:\Users\rosmo\source\repos\SDiZO\SDiZO\obj\Debug\SDiZO.pdb
+C:\Users\rosmo\source\repos\SDiZO\SDiZO\obj\Debug\SDiZO.csprojAssemblyReference.cache
